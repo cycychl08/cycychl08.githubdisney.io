@@ -1,21 +1,19 @@
 body {
-  background-color: #F6CDB7; /* Fond */
-  font-family: 'Arial', sans-serif; /* Police de caractères */
+  background-color: #F6CDB7;
+  font-family: 'Arial', sans-serif; 
 }
 
 h1 {
-  font-family: 'Arial Black', sans-serif; /* Police de titre */
-  color: #97484C; /* Couleur de titre */
+  font-family: 'Arial Black', sans-serif; 
+  color: #97484C; 
 }
 
 p {
-  line-height: 1.5; /* Espacement entre les lignes */
-  margin-bottom: 20px; /* Marge basse */
-  color:#8B2D30; /* Couleur de texte */
+  line-height: 1.5;
+  margin-bottom: 20px; 
+  color:#8B2D30; 
 }
 
-li {
-  margin-bottom: 20px; /* Marge basse */
-  color:#8B2D30; /* Couleur de texte de la liste */
-  list-style: inside; /* Style de liste (points à l'intérieur) */
+li{  color:#8B2D30;
+  list-style: inside; 
 }
