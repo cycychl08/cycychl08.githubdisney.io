@@ -1,20 +1,15 @@
 body {
-  background-color: #d2b48c; 
-  color: #2C3E50; 
+  background-color: #F6CDB7; 
   font-family: 'Arial', sans-serif; 
 }
 
 h1 {
   font-family: 'Arial Black', sans-serif; 
-  color: #8B4513; 
+  color: #DF6D75; 
 }
 
 p {
   line-height: 1.5; 
-  margin-bottom: 20px; 
-}
-
-a {
-  color: #8B4513; 
-  text-decoration: none; 
+  margin-bottom: 20px;
+  color:#8B2D39;
 }
