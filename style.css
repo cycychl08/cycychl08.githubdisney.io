@@ -1,22 +1,20 @@
+body {
+  background-color: #d2b48c; 
+  color: #2C3E50; 
+  font-family: 'Arial', sans-serif; 
+}
+
 h1 {
-  font-family: "Times New Roman", serif;
-  font-size: 2.5em;
-  color: #FF0000;
-  text-align: center;
+  font-family: 'Arial Black', sans-serif; 
+  color: #8B4513; 
 }
-a {
-  text-decoration: none;
-  color: #0000FF;
-  font-weight: bold;
-}
-title {
-  font-family: "Times New Roman", serif;
-  font-size: 1.5em;
-  color: #0000FF;
-}
+
 p {
-  font-family: "Times New Roman", serif;
-  font-size: 1em;
-  color: #000000;
-  text-align: justify;
+  line-height: 1.5; 
+  margin-bottom: 20px; 
+}
+
+a {
+  color: #8B4513; 
+  text-decoration: none; 
 }
