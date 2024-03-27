@@ -5,7 +5,7 @@ body {
 
 h1 {
   font-family: 'Arial Black', sans-serif; 
-  color: #DF6D75; 
+  color: #97484C; 
 }
 
 p {
@@ -13,3 +13,6 @@ p {
   margin-bottom: 20px;
   color:#8B2D39;
 }
+li{ line-height: 1.5; 
+  margin-bottom: 20px;
+  color:#8B2D3}
